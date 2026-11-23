@@ -17,7 +17,12 @@ Complete both components individually. The deadlines and submission instructions
 
 | Artifact | What to include |
 |---|---|
-| **Homework assignment** | Student instructions in the style of CSC110 homework, measurable learning outcomes, starter code that shows where students should write docstrings, and a complete example solution. |
+| **Homework assignment** | The student's overall task of the homework will be to create a program that calculates a subtotal, tip, and final amount of a restaurant bill using functions.
+Create a function that takes a restaurant bill amount
+Create a function that calculates 15% tip
+Create a function that adds the tip to the bill
+Call the function and display the final amount
+
 | **In-class activity** | An instructor guide with learning goals, a materials list, and directions for running the activity. Include the materials students will use, such as slides, a handout, a worksheet, or a physical manipulative. |
 
 Design the homework so students can solve it in more than one way. Aim for a task a typical CSC110 student can complete by writing **20–30 lines of code**, excluding comments and docstrings. Comment your example solution and write a docstring for every function in it.
