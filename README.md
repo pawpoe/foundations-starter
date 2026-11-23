@@ -21,7 +21,7 @@ Complete both components individually. The deadlines and submission instructions
 Create a function that takes a restaurant bill amount
 Create a function that calculates 15% tip
 Create a function that adds the tip to the bill
-Call the function and display the final amount
+Call the function and display the final amount |
 
 | **In-class activity** | An instructor guide with learning goals, a materials list, and directions for running the activity. Include the materials students will use, such as slides, a handout, a worksheet, or a physical manipulative. |
 
