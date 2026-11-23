@@ -17,10 +17,8 @@ Complete both components individually. The deadlines and submission instructions
 
 | Artifact | What to include |
 |---|---|
-| **Homework assignment** | The student's overall task of the homework will be to create a program that calculates a subtotal, tip, and final amount of a restaurant bill using functions. 1. Create a function that takes a restaurant bill amount. 2. Create a function that calculates 15% tip 3. Create a function that adds the tip to the bill. 4. Call the function and display the final amount.
-
-| **In-class activity** | Students will learn how to predict what the program will display before running the code. Prompt 1: Predict what the loop will print. Prompt 2: Change the loop. Materials: Computer/Laptop, slides that explain Python “for” loops and the range() function, A worksheet with loop prediction questions, pen/pencil and paper to write down their predictions 
- |
+| **Homework assignment** | The student's overall task of the homework will be to create a program that calculates a subtotal, tip, and final amount of a restaurant bill using functions. 1. Create a function that takes a restaurant bill amount. 2. Create a function that calculates 15% tip 3. Create a function that adds the tip to the bill. 4. Call the function and display the final amount. |
+| **In-class activity** | Students will learn how to predict what the program will display before running the code. Prompt 1: Predict what the loop will print. Prompt 2: Change the loop. Materials: Computer/Laptop, slides that explain Python “for” loops and the range() function, A worksheet with loop prediction questions, pen/pencil and paper to write down their predictions. |
 
 Design the homework so students can solve it in more than one way. Aim for a task a typical CSC110 student can complete by writing **20–30 lines of code**, excluding comments and docstrings. Comment your example solution and write a docstring for every function in it.
 
