@@ -10,10 +10,10 @@ The student's overall task of the homework will be to create a program that calc
 
 ### Learning Outcomes
 - 1. Understand how to create and define functions in Python.
-  2. Understand how to use parameters and arguments.
-  3. Learn how to return values from functions.
-  4. Learn how to apply mathematical calculations within functions.
-  5. Understand how to call multiple functions to complete a program.
+- 2. Understand how to use parameters and arguments.
+- 3. Learn how to return values from functions.
+- 4. Learn how to apply mathematical calculations within functions.
+- 5. Understand how to call multiple functions to complete a program.
  
 ### Misconceptions Addressed
 - Confusing parameters and arguments
